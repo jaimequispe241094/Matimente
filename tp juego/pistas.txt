@@ -1,0 +1,18 @@
+
+***************************PISTAS***************************
+NUMERO PAR:
+Un numero es par es aquel que al dividirse por 2 su resto es igual a cero.
+Por ej: 8/2=4 y su resto es cero.
+NUMERO IMPAR:
+Un numero es impar si el resto de la division entre ese numero y 2 es
+distinto de cero.por ej 15/2=7, 
+MULTIPLICAION:
+Consiste en sumar un numero tantas veces como indica otro numero.
+Por ej: 4*3 es igual a 12, Al igual que 4+4+4.
+DIVISION:
+Consiste en averiguar cuantas veces esta un numero contenido en otro.
+Por ej: 20/4=5 El num 4 cabe 5 veces en el numero 20. 
+RESTOS:
+El resto de una división de dos números enteros es el número que se le ha 
+de restar al dividendo para que sea igual a un determinado número de veces el divisor. 
+Resto=Dividendo-(divisor*cociente). Por ej: 7 / 3 tiene un resto=1. 

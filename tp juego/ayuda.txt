@@ -1,0 +1,34 @@
+
+
+********************************AYUDA********************************
+
+*PUNTAJES
+------------------------------------------------------------------------
+         --              RESPUESTAS              ---                   -
+------------------------------------------------------------------------  
+-- NIVEL -- CORRECTA SUMA: ---  INCORRECTA RESTA:---PARA PASAR EL NIVEL-
+------------------------------------------------------------------------        
+-    1   --   20 PUNTOS    ---     10 PUNTOS     ---      100          -
+------------------------------------------------------------------------ 
+-    2   --   30 PUNTOS    ---     20 PUNTOS     ---      250          - 
+------------------------------------------------------------------------ 
+-    3   --   45 PUNTOS    ---     30 PUNTOS     ---      400          - 
+------------------------------------------------------------------------      
+-    4   --   75 PUNTOS    ---     40 PUNTOS     ---      550          - 
+------------------------------------------------------------------------    
+-    5   --  100 PUNTOS    ---     65 PUNTOS     ---      700          -
+------------------------------------------------------------------------ 
+
+*NIVEL PERDIDO
+Cuando usted esta en un nivel y llega al puntaje negativo del que se necesita
+para pasar un nivel, automaticamente el nivel termina y vuelve al menu principal
+Ejemplo: usted esta en el nivel 2 y alcanza un puntaje de -250 pierde el nivel
+y vuelve al menu principal, solo se guardara el ultimo nivel que gano.
+
+*PARTIDA REINICIADA
+Cuanto usted termina de completar todos los niveles y entra a la opcion
+reanudar puede poner su puntaje en cero y volver a comenzar.
+
+*SALIR DE UN NIVEL
+Solo se podra salir de un nivel si contesta tantas veces incorrectamente como
+para obtener un puntaje negativo del que necesita para pasarlo.
